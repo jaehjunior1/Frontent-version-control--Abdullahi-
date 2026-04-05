@@ -1,8 +1,5 @@
 # Frontent-version-control--Abdullahi-
 
-
-# Frontend Version Control Task
-
 This repository was created as part of my version control assignment.
 
 ## Purpose
